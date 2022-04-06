@@ -1,0 +1,16 @@
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\bin\Debug\net5.0\testeParadgima.exe
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\bin\Debug\net5.0\testeParadgima.deps.json
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\bin\Debug\net5.0\testeParadgima.runtimeconfig.json
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\bin\Debug\net5.0\testeParadgima.runtimeconfig.dev.json
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\bin\Debug\net5.0\testeParadgima.dll
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\bin\Debug\net5.0\ref\testeParadgima.dll
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\bin\Debug\net5.0\testeParadgima.pdb
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.csproj.AssemblyReference.cache
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.AssemblyInfoInputs.cache
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.AssemblyInfo.cs
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.csproj.CoreCompileInputs.cache
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.dll
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\ref\testeParadgima.dll
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.pdb
+C:\Users\FabrícioJúnior\source\repos\testeParadgima\testeParadgima\obj\Debug\net5.0\testeParadgima.genruntimeconfig.cache
